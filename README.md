@@ -1,2 +1,2 @@
-# OOP_KBTU
-Objective Oriented Programming Course 
+# Object Oriented Programming
+Object Oriented Programming Course 
