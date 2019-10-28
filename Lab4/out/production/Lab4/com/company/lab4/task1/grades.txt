@@ -1,0 +1,8 @@
+Ivanov Ivan - "A"
+Aliyev Ali - "F"
+Menshikov Sergey - "D"
+Gena Bukin - "F"
+
+Average - 58.0
+Maximum - 100
+Minimum - 22

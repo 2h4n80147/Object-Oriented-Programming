@@ -1,0 +1,8 @@
+Username: zha
+Password: ku
+
+2019-10-28T10:27:02.017744700 admin logged in to a system
+2019-10-28T10:27:05.237813200 admin added new course - go
+2019-10-28T10:27:06.837875700 admin added textbook -go to course go
+2019-10-28T10:27:09.917954300 admin added instructor - go to course go
+2019-10-28T10:27:09.917954300 admin logged in to a system

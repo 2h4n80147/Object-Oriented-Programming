@@ -1,0 +1,4 @@
+Ivanov Ivan 100
+Aliyev Ali 22
+Menshikov Sergey 65
+Gena Bukin 45
